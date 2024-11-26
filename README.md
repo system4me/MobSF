@@ -7,10 +7,9 @@ This repository provides resources for setting up and running a **MobSF (Mobile 
 Ensure the following are installed on your system:
 - **Python 3.x** (with `pip`)
 - Dependencies listed in `requirement.txt`
-
-  pip install -r requirement.txt
-  cd Mobile-Security-Framework-MobSF-master
-  setup.bat (windows)
-  setup.sh (linux/mac)
-  cd ..
-  python mobsf.py
+- pip install -r requirement.txt
+- cd Mobile-Security-Framework-MobSF-master
+- setup.bat (windows)
+- setup.sh (linux/mac)
+- cd ..
+- python mobsf.py
